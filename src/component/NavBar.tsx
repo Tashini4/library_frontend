@@ -56,7 +56,7 @@ export default function NavBar() {
                         className="flex items-center"
                     >
                         <a href="/" className="text-2xl font-['Bruno_Ace_SC'] text-white tracking-tight">
-                            <span className="text-yellow-400">Book</span>Nexus
+                            <span className="text-yellow-400">Book</span>Library
                         </a>
                     </motion.div>
 

@@ -44,7 +44,7 @@ const HeroSection = () => {
     return (
         <div
             style={{
-                backgroundImage: 'url("../src/assets/background.png")',
+                backgroundImage: 'url("../src/assets/img.png")',
                 backgroundSize: 'cover',
                 backgroundRepeat: 'no-repeat',
                 backgroundAttachment: 'fixed',
